@@ -1,0 +1,13 @@
+*.doc
+*.docx
+*.aux
+*.idx
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.ilg
+*.nav
+*.snm
+*.vrb
+.DS_Store
